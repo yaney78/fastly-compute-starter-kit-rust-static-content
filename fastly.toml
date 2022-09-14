@@ -3,6 +3,7 @@ name = "Static content"
 description = "Apply performance, security and usability upgrades to static bucket services such as Google Cloud Storage or AWS S3."
 authors = ["<oss@fastly.com>"]
 language = "rust"
+service_id = "4PQlPquG3y2vyXHZ1gFk6K"
 
 [setup]
 
